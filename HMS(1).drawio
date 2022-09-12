@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T04:23:59.383Z" agent="5.0 (X11)" etag="Zy6Ivn1Kj8kiTfP6vCa5" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-12T04:33:25.689Z" agent="5.0 (X11)" etag="U3iqxlCt61pnDT8Y03g4" version="20.3.0" type="github" pages="3">
   <diagram id="uxezb6ABfdkSh2dHg879" name="P&amp;F Diagnosis">
-    <mxGraphModel dx="796" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,7 +119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="P&amp;F Recommendation" id="QolZZI7IaemLjrOdinJS">
-    <mxGraphModel dx="796" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="gaaFz092RPs9VrREoE1W-0" />
         <mxCell id="gaaFz092RPs9VrREoE1W-1" parent="gaaFz092RPs9VrREoE1W-0" />
@@ -131,7 +131,7 @@
             <mxPoint x="240" y="227.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zx3auEbYp1yEfGgA5pmt-1" value="&lt;div&gt;Patients profile info&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="gaaFz092RPs9VrREoE1W-1" vertex="1">
+        <mxCell id="zx3auEbYp1yEfGgA5pmt-1" value="&lt;div&gt;Symptoms&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="gaaFz092RPs9VrREoE1W-1" vertex="1">
           <mxGeometry x="60" y="251.66" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zx3auEbYp1yEfGgA5pmt-2" value="recommended doctor" style="ellipse;whiteSpace=wrap;html=1;" parent="gaaFz092RPs9VrREoE1W-1" vertex="1">
